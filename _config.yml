@@ -1,0 +1,106 @@
+### Site Settings ###
+title               : Richard Mathews II
+tagline             : Data scientist, student, and biohacker # SEO tagline
+description         : Exploring how to be more productive, healthy, and happy using data. # SEO page description
+landing_bio         : I'm Richard, a data scientist, part-time student, and biohacker
+sub_description     : >-
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : RichardMathewsII/RichardMathewsII.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+url                 : https://www.richardmathewsii.com
+logo                : /assets/favicon.ico
+
+### Plugins ###
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - pages/project-tags.html
+  - pages/book-tags.html
+  - pages/contact-form-process.php
+  - pages/message-sent.html
+
+
+### Author Info ###
+author:
+  name              : Richard Mathews II
+  image             : assets/me/head_shot_4.jpeg
+# behance           : your_username
+# dribbble          : your_username
+  email             : richard.mathews@berkeley.edu
+# facebook          : your_username
+  github            : RichardMathewsII
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : RichardMathewsII
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  books:
+    output: true
+    permalink: /booknotes/:name
+
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable analytics
+  google:
+    tracking_id: UA-219553517-1
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "books"
+    values:
+      layout: "book"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

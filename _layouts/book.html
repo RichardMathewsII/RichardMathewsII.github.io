@@ -1,0 +1,64 @@
+---
+layout: page
+---
+
+<div class="verticalhorizontal">
+  <img src="{{ page.image }}" alt="{{ page.title }}" />
+</div>
+
+<style>
+  .verticalhorizontal {
+      height: 200px;
+      text-align: center;
+      width: 200px;
+      margin-left: auto;
+      margin-right: auto;
+      padding-bottom: 80px;
+  }
+  </style>
+
+<br>
+<br>
+<br>
+<br>
+
+<div>
+<h1>{{ page.title }}</h1>
+<h4><b>{{ page.subtitle }}</b></h4>
+</div>
+
+<p class="post-metadata text-muted">
+  {{ page.date | date_to_long_string }} -  
+  <b>
+  {%- assign words = content | number_of_words -%}
+  {%- if words < 360 -%}
+    less than 1 min read time
+  {%- else -%}
+    {{ words | divided_by: 180 }} mins read time
+  {%- endif -%}
+  </b>
+
+  <br>
+
+  {%- if page.tags != empty -%}
+    Tags: 
+    {% for tag in page.tags %}
+    <a class="text-decoration-none no-underline" href="{{ tag | slugify | prepend:'/booknotes/tags#' | relative_url }}">
+      <span class="tag badge badge-pill text-primary border border-primary">{{ tag }}</span>
+    </a>
+    {% endfor %}
+  {%- endif -%}
+
+  <br>
+  <a href="https://www.goodreads.com/richardmathewsii" title="Richard Mathews II's Goodreads Profile", rel="nofollow"><img border="0" alt="Richard Mathews II's Goodreads Profile" src="https://s.gr-assets.com/images/badge/badge1.jpg">
+  </a>
+
+</p>
+
+{{ content }}
+
+{% if page.comments %}
+<div class="pt-5">
+  {% include blog/disqus.html %}
+</div>
+{% endif %}

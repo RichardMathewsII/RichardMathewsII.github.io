@@ -1,0 +1,19 @@
+- name: Databricks
+  percentage: 90
+  color: success
+
+- name: Git
+  percentage: 85
+  color: success
+
+- name: PowerBI
+  percentage: 70
+  color: warning
+
+- name: Azure
+  percentage: 65
+  color: warning
+
+- name: Docker
+  percentage: 45
+  color: danger

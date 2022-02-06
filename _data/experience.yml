@@ -1,0 +1,32 @@
+- role: Data Scientist
+  company: BASF Corporation
+  from: 08/2021
+  to: present
+  description: |
+              BASF is a Global Fortune 500 company, the largest chemicals company in the world, and a leader in sustainable manufacturing and material development.
+              I am participating in the company's professional development program for data science, which is a rotational program designed to produce data science leaders.
+              For my first rotation, I am working in AI Solutions for Sales, Marketing, and Customer Engagement, where I serve as a global technical lead for the company's
+              churn prediction and market forecasting products. My responsibilities are to oversee the implementation of scalable ETL and ML pipelines in the Azure Databricks
+              platform, develop more accurate and interpretable ML algorithms, and ensure the insights are actively supporting business teams in their decision-making processes. 
+              I am also an associate product manager for our market modeling portfolio, where I devise data-driven product strategies for helping business units plan
+              future production with insights into future demand and emerging markets.
+              In addition to these projects, I consult/teach other data science teams in business and manufacturing domains on building scalable data science solutions with
+              Azure, Databricks, and Spark.
+              My current contributions are:
+  bullets:
+        - line: Implemented machine learning pipelines for churn prediction in Databricks, resuling in a 3500%+ performance boost, greater data reliability, lower costs, and faster deployment to 20K users 
+        - line: Led development of end-to-end MVP with Databricks backend and PowerBI frontend, and convinced stakeholders to invest $50K in the product by communicating business impact through product demonstrations and data visualizations
+        - line: Consulted several teams in business and manufacturing on building scalable data science solutions in the Databricks ecosystem
+        - line: Formulated a technical and strategic blueprint for delivering global market trends by geography and chemical segment, which will enable more profitable planning for strategy teams across BASF
+
+- role: Data Science Intern
+  company: BASF Corporation
+  from: 06/2020
+  to: 08/2020
+  description: |
+              I was the company's first data science intern in their professional development program. I also received the highest performance rating for my contributions.
+  bullets: 
+        - line: Developed cloud application with productionized machine learning, data management, and automated data pipelining using SciKit-Learn, PostgreSQL, Kubernetes, and Gitlab which will save $500K per year on plant operation expenses
+        - line: Applied weak supervision AI, NLP, and logistic regression using Snorkel, VADER, and Sci-Kit Learn on the customer survey dataset to identify the most insightful responses out of 20,000+ that should be prioritized by customer service, thus improving the efficiency of reviewing customer feedback
+        - line: Presented weak supervision theory and company-specific use cases to an audience of 45 BASF technical experts, including PhDs and Digitalization leaders
+        - line: Built and deployed virtual networking application using Kubernetes to 3 BASF communities to spark social interaction and knowledge sharing amongst 150+ employees during a remote working situation

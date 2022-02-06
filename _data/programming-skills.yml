@@ -1,0 +1,19 @@
+- name: Python
+  percentage: 95
+  color: success
+
+- name: Spark
+  percentage: 85
+  color: success
+
+- name: SQL
+  percentage: 80
+  color: warning
+
+- name: R
+  percentage: 55
+  color: danger
+
+- name: Command Line
+  percentage: 50
+  color: danger

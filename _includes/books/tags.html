@@ -1,0 +1,31 @@
+<!-- Collect tags from all books -->
+{%- assign tags = blank -%}
+{%- for book in site.books -%}
+  {%- assign book_tags = book.tags | join:'|' | append:'|' -%}
+  {%- if book_tags != '|' -%}
+    {%- assign tags = tags | append:book_tags -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign tags = tags | split:'|' | uniq | sort -%}
+
+<!-- List tags & related books -->
+{% for tag in tags %}
+<div class="py-3">
+  <h4 id="{{ tag | slugify }}">{{ tag }}</h4>
+  <ol>
+  {% for book in site.books %}
+    {%- if book.tags contains tag -%}
+      {%- if book.external_url -%}
+        {%- assign url = book.external_url -%}
+      {%- else -%}
+        {%- assign url = book.url | relative_url -%}
+      {%- endif -%}
+    <a href="{{ url }}"><li>{{ book.book_title }}</li></a>
+    <small class="text-muted"> - {{ book.date | date_to_long_string }}</small>
+    <br/>
+    {%- endif -%}
+  {% endfor %}
+  </ol>
+</div>
+<hr class="bg-light">
+{% endfor %}

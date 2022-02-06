@@ -1,0 +1,16 @@
+- school: The University of California, Berkeley
+  degree: Master's in Data Science
+  from: 2022
+  to: present
+  description: 
+  bullets: 
+
+- school: The University of Texas at Austin
+  degree: Bachelor's in Chemical Engineering, Minor in Computational Science
+  from: 2016
+  to: 2021
+  description: 
+  bullets:
+        - line: "GPA: 3.65"
+        - line: "Coursework: statistics, object-oriented programming, databases, data structures & algorithms, machine learning, linear algebra, differential equations"
+        - line: "Achievements: 1st Place at Spring 2020 Demo Day, 2x Undergraduate Research Fellowship, 2nd out of 16 in case competition, 2nd out of 7 in pitch competition, 4x University Honors, 4th out of 12 in engineering competition"

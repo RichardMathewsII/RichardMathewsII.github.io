@@ -1,0 +1,27 @@
+
+<div class="card-columns m-3 mt-5">
+
+  <!-- Local books -->
+  {% for book in site.books %}
+
+    {%- assign book_type  = "local" -%}
+    {%- assign book_id    = book.title | slugify -%}
+    {%- assign book_img   = book.image -%}
+    {%- assign book_title  = book.title -%}
+    {%- assign book_name  = book.book_title -%}
+    {%- assign book_desc  = book.cover_description -%}
+    {%- assign book_tags = book.tags -%}
+
+    {%- if book.external_url -%}
+      {%- assign book_url = book.external_url -%}
+      {%- assign external    = true -%}
+    {%- else -%}
+      {%- assign book_url = book.url | relative_url -%}
+      {%- assign external    = false -%}
+    {%- endif -%}
+
+    {% include books/book-card.html %}
+
+  {% endfor %}
+
+</div>

@@ -1,0 +1,21 @@
+<div class="wow animated fadeIn" data-wow-delay=".15s">
+  <a href="{{ book_url }}" class="project card text-themed" {%- if external and site.open_new_tab -%} target="_blank" {%- endif -%}>
+    {%- if book_img -%}
+    <img id="{{ book_id }}-img" class="card-img-top" src="{{ book_img }}" alt="{{ book_name }}" />
+    {%- endif -%}
+    <div class="card-body">
+      <h5 id="{{ book_id }}-name" class="card-title">
+          {%- if book_type == "remote" -%}
+          <i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250" title="GitHub Repository"></i> |&nbsp;
+          {%- endif -%}
+        {{ book_name }}
+      </h5>
+      <p id="{{ book_id }}-desc" class="card-text">{{ book_desc }}</p>
+      <p id="{{ book_id }}-tools" class="card-text">
+        {%- for tag in book_tags -%}
+        <span class="badge badge-pill text-primary border border-primary ml-1">{{ tag }}</span>
+        {%- endfor -%}
+      </p>
+    </div>
+  </a>
+</div>
