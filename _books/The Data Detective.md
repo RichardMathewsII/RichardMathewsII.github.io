@@ -5,12 +5,12 @@ subtitle: Ten Easy Rules to Make Sense of Statistics
 tags: [Statistics]
 date: 2021-11-13
 image: /assets/books/the-data-detective.jpeg
-description: My thoughts, summaries, and notes on Tim Harford's "The Data Detective". 
-cover_description: How not to be fooled by statistics.
+description: My thoughts, summaries, and notes on Tim Harford's "The Data Detective".
+cover_description: How not to be fooled by statistics
 ---
 
 ### ✍️ The Author
-This book was written by Tim Harford and published in 2021.
+This book was written by Tim Harford and published in 2021. Harford is an Oxford-based economist and BBC broadcaster who also writes for the Financial Times column, "The Undercover Economist."
 
 ### 💡 Thesis of the Book
 This book offers "ten commandments" of statistics, but if you distill all of them into one golden rule, it's **to be curious**. By being curious about data, statistical methodology, and claims, you naturally arrive at the ten rules offered by this book. When presented with a statistical claim, the rules advise readers to consider:
@@ -28,15 +28,9 @@ This book offers "ten commandments" of statistics, but if you distill all of the
 ### 💭 My Thoughts
 As a quantitative person, I know it is easy to get lost in numbers, losing sight of the subtle human elements that regulate how we interpret numbers. The Data Detective helped me appreciate the importance of emotion, experience, deception, and psychology in the world of statistics. The commandments purveyed by this book makes it a statistical bible of sorts, one that I will keep in my backpocket and repeatedly reference in the future. I recommend anyone who interfaces with statistics read this book, digest the rules, and keep them close. The wisdom of the ten rules is sure to help anyone navigate the treacherous waters of noisy information and keep their emotions in check. While the thesis of the book is to be curious about data, my main takeaway was more specific, and that is the world is ruled by both feelings and numbers. Trying to escape that reality is a fool's errand. To engage in sense-making, we must listen to both. Believing your views are emotionless and purely rational is a trap, and more dangerous than acknowledging the inescapable influence of your feelings. Feelings can be subtle, and if you ignore them, they can pull the strings without you realizing it. What you thought was rational was really whatever made you feel good. You must confront the numbers and your feelings about them.
 
-#### 🏅 Ratings (1-5 Stars)
-- **Overall:** ⭐️⭐️⭐️⭐
-- Impact: ⭐️⭐️⭐️⭐
-- Interest: ⭐️⭐️⭐️⭐
-- Style: ⭐️⭐️⭐
-
 ### 📕 Chapter Summaries
 #### Introduction: How To Lie With Statistics
-One of the most popular books in the field of statistics is Darrell Huff's "How To Lie With Statistics". This written work takes a cynical view on statistics, that it is a trickster's tool for fooling people into believing falsehoods. Harford takes the opposite approach with this book, which offers a more optimistic take on the discipline. We must acknowledge that statistics can be used to mislead us in the wrong direction, but more importantly, it is crucial to leading us in the right direction. Rather than giving up on evidence and believing whatever makes us feel good, we ought to engage in truth-seeking because it helps us see the world more clearly. It may seem daunting to navigate the complex landscape of data, but with the right frame of mind, you can do it.
+One of the most popular books in the field of statistics is Darrell Huff's "[How To Lie With Statistics](https://richardmathewsii.com/booknotes/how-to-lie-with-statistics)". This written work takes a cynical view on statistics, that it is a trickster's tool for fooling people into believing falsehoods. Harford takes the opposite approach with this book, which offers a more optimistic take on the discipline. We must acknowledge that statistics can be used to mislead us in the wrong direction, but more importantly, it is crucial to leading us in the right direction. Rather than giving up on evidence and believing whatever makes us feel good, we ought to engage in truth-seeking because it helps us see the world more clearly. It may seem daunting to navigate the complex landscape of data, but with the right frame of mind, you can do it.
 
 #### Rule 1: Search Your Feelings
 There are a lot of steps between analyzing evidence and reaching a conclusion, and if you do not control your emotions, your feelings about the particular matter will manipulate the steps you take to confirm your preconceptions. The reason political activists are so contradictory in their lines of reasoning is that they let their feelings about the political issue dictate how they ought to think on that particular topic. This pyschological phenomenon is known as "motivated reasoning", and the solution to avoiding this bias is not to be more informed or intelligent. In fact, people with greater expertise and intelligence are more susceptible to motivated reasoning because they have more mental tricks and information to creatively lay out a path connecting the data to the conclusion that satisfies their feelings. The feelings set the destination, and the smarts find a way to get you there. Additionally, expertise can give a false sense of confidence that you know what you are talking about. You don't doubt your conclusion because you are an "expert", but little do you know it wasn't the "expert" in you that reached the conlusion. Feelings can, and often do, override expertise. If you don't confront your feelings and recognize the enormous bias it can throw in the thinking process, being smart and knowledgable is, ironically, a weakness. So pay attention to how you emotionally react to data or statistical claims. Search your feelings.

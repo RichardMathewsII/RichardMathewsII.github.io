@@ -16,12 +16,7 @@ This book was written by Charles Wheelan and published in 2014. Wheelan is a lec
 Statistics is a profound tool for inferring truths from data, not proving them, and ultimately it has no say on what questions we ought to seek answers to. That judgement is reserved for the human. We decide how to employ statistics, and it can do much good when used properly and much harm when misused. Statistics can be used to lie, but it is crucial for telling the truth.
 
 ### 💭 My Thoughts
-Wheelan explores some of the most profound concepts in the field of statistics through intuitive explanations, examples, and humor. It was a fun read, but even as a data scientist, it added value. I actually found myself grasping fundamental statistical concepts in a more intuitive manner, even though I have employed all these tools to solve data problems many times. I truly wish someone handed me this book before I took my first statistics class. Additionally, Wheelan's writing has inspired me to strive towards his level of explanatory capability. I give it 3 out of 5 stars.
-<div style="text-align:center">
-<h1> :star: :star: :star: </h1>
-</div>
-
-<br>
+Wheelan explores some of the most profound concepts in the field of statistics through intuitive explanations, examples, and humor. It was a fun read, but even as a data scientist, it added value. I actually found myself grasping fundamental statistical concepts in a more intuitive manner, even though I have employed all these tools to solve data problems many times. I truly wish someone handed me this book before I took my first statistics class. Additionally, Wheelan's writing has inspired me to strive towards his level of explanatory capability.
 
 ### 📕 Chapter Summaries
 #### Introduction: Why I hated calculus but love statistics

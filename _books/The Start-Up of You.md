@@ -19,12 +19,6 @@ This book was written by Reid Hoffman and published in 2012. Hoffman cofounded L
 ### 💭 My Thoughts
 I first read this book during my junior year of undergraduate study, and it was instrumental in my pivot from chemical engineering to data science. Both my career strategy and trajectory experienced an inflection point shortly after reading this book. The principles and strategies conveyed by Hoffman are simple to understand but profound when implemented, and I continue to incorporate them in my game theoretic approach to career. My main takeaway is to manage your career like an entrepreneur manages a successful startup, meaning your "career venture" should follow a broad vision, be highly adaptable, create a competitive advantage, leverage network intelligence, involve risky but intelligent moves, take advantage of breakout opportunities, and continuously iterate in the face of market realities.
 
-#### 🏅 Ratings (1-5 Stars)
-- **Overall:** ⭐️⭐️⭐️
-- Impact: ⭐️⭐️⭐️⭐️⭐️
-- Interest: ⭐️⭐️
-- Style: ⭐️⭐️⭐️
-
 ### 📕 Chapter Summaries
 #### All Humans Are Entrepreneurs
 Entrepreneurship is a concept that extends well beyond companies and businesses. It's a mode of risk-taking, iterating, networking, and strategizing. The forces of competition that give rise to entrepreneurship manifest for both companies and individuals. Every individual is an entrepreneur of sorts, because at a minimum they have their career as a venture. This book makes the argument that we should treat our careers as startups, and apply Silicon Valley principles to them in order to advance in the 21st century job landscape. For companies and workers, the market conditions are shifting rapidly, and to stay adaptable, both must maintain a mindset of continuous, feedback-based iteration, a mode known as "permanent beta". In the 20th century, careers were very linear, where time spent in a role or industry was the primary lever for career advancement. Now, if you are not in permanent beta, 20 years of experience is just 20 repetitions of a single year of experience, and that won't get you far. If your value proposition does not fit a market, your career will collapse just like a company would. To cultivate a meaningful career, it's time to become the startup of you.
