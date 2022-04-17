@@ -9,15 +9,15 @@ weight: 6
 
 # **About Me**
 
-![Desk Shot](/assets/me/desk_shot_behind.jpeg)
-
 <div style="text-align:center">
 <h3> Hi, my name is {{ site.author.name }} :wave:</h3>
 <h5>Professionally, I am a data scientist working for a Fortune 500 company. Academically, I am a graduate student at Berkeley studying for a master's in data science. Personally, I explore how topics in science and analytics can help humans live better lives.</h5></div>
 
 <div id='container'>
- <img src='/assets/me/head_shot_5.jpeg' height="200" width="200" style='float: left;'/>
+ <img src='/assets/me/head_shot_5.jpeg' height="300" width="300" style='float: left;'/>
  <p>some text (that will now wrap around the image</p>
+ <h3> Hi, my name is {{ site.author.name }} :wave:</h3>
+ <h5>Professionally, I am a data scientist working for a Fortune 500 company. Academically, I am a graduate student at Berkeley studying for a master's in data science. Personally, I explore how topics in science and analytics can help humans live better lives.</h5>
 </div>
 
 ---
