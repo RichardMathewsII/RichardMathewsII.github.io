@@ -15,6 +15,11 @@ weight: 6
 <h3> Hi, my name is {{ site.author.name }} :wave:</h3>
 <h5>Professionally, I am a data scientist working for a Fortune 500 company. Academically, I am a graduate student at Berkeley studying for a master's in data science. Personally, I explore how topics in science and analytics can help humans live better lives.</h5></div>
 
+<div id='container'>
+ <img src='/assets/me/head_shot_5.jpeg' style='float: left;'/>
+ <p>some text (that will now wrap around the image</p>
+</div>
+
 ---
 
 Halfway through my bachelor's degree in chemical engineering, I pivoted to data science because I felt it was a better fit for my curiosity and analytical mindset. After this inflection point, I went on to lead AI-enabled product build teams at UT Austin, conduct computer vision research, start my career in data science at a global Fortune 500 company, and pursue a master's degree in data science at UC Berkeley.
