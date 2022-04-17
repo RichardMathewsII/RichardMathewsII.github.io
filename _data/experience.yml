@@ -5,19 +5,16 @@
   description: |
               BASF is a Global Fortune 500 company, the largest chemicals company in the world, and a leader in sustainable manufacturing and material development.
               I am participating in the company's professional development program for data science, which is a rotational program designed to produce data science leaders.
-              For my first rotation, I am working in AI Solutions for Sales, Marketing, and Customer Engagement, where I serve as a global technical lead for the company's
-              churn prediction and market forecasting products. My responsibilities are to oversee the implementation of scalable ETL and ML pipelines in the Azure Databricks
-              platform, develop more accurate and interpretable ML algorithms, and ensure the insights are actively supporting business teams in their decision-making processes. 
-              I am also an associate product manager for our market modeling portfolio, where I devise data-driven product strategies for helping business units plan
-              future production with insights into future demand and emerging markets.
+              In my first rotation, I worked in AI Solutions for Sales, Marketing, and Customer Engagement, where I worked on churn prediction and market modeling solutions. 
+              I was product manager for a market intelligence product that helped make strategic business development more data-driven.
               In addition to these projects, I consult/teach other data science teams in business and manufacturing domains on building scalable data science solutions with
               Azure, Databricks, and Spark.
               My current contributions are:
   bullets:
-        - line: Implemented machine learning pipelines for churn prediction in Databricks, resuling in a 3500%+ performance boost, greater data reliability, lower costs, and faster deployment to 20K users 
-        - line: Led development of end-to-end MVP with Databricks backend and PowerBI frontend, and convinced stakeholders to invest $50K in the product by communicating business impact through product demonstrations and data visualizations
-        - line: Consulted several teams in business and manufacturing on building scalable data science solutions in the Databricks ecosystem
-        - line: Formulated a technical and strategic blueprint for delivering global market trends by geography and chemical segment, which will enable more profitable planning for strategy teams across BASF
+        - line: Scaled ETL and machine learning pipelines using PySpark/Databricks; realized a 3500% performance boost
+        - line: Implemented end-to-end data science products for business teams (churn, market models) equipped with MLOps and DataOps using Databricks, Azure Data Lake, Azure Data Factory, Delta Lake, MLflow, PowerBI, and Python
+        - line: Designed innovative market sizing system that synthesizes and combines 6 different data sources to generate market intelligence that cannot be purchased from a third-party firm; built to inform strategic decision making
+        - line: Managed team of 4 developers in building a custom market intelligence product for internal clients in strategic business development; bridged business needs and technical development by communicating with stakeholders and translating business problems into tangible solutions
 
 - role: Data Science Intern
   company: BASF Corporation
