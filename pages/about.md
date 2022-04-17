@@ -8,11 +8,6 @@ weight: 6
 ---
 
 # **About Me**
-
-<div style="text-align:center">
-<h3> Hi, my name is {{ site.author.name }} :wave:</h3>
-<h5>Professionally, I am a data scientist working for a Fortune 500 company. Academically, I am a graduate student at Berkeley studying for a master's in data science. Personally, I explore how topics in science and analytics can help humans live better lives.</h5></div>
-
 <div id='container'>
  <img src='/assets/me/head_shot_5.jpeg' height="300" width="300" style='float: left; padding-right: 20px'/>
  <br>
