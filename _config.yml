@@ -2,7 +2,7 @@
 title               : Richard Mathews II
 tagline             : Data scientist, student, and biohacker # SEO tagline
 description         : Exploring how to be more productive, healthy, and happy using data. # SEO page description
-landing_bio         : I'm Richard, a data scientist, part-time student, and biohacker
+landing_bio         : I'm Richard, a data scientist, graduate student, and biohacker
 sub_description     : >-
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : RichardMathewsII/RichardMathewsII.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
