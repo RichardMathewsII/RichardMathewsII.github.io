@@ -31,17 +31,17 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Richard Mathews II
-  image             : assets/me/head_shot_4.jpeg
+  image             : assets/me/cyborg.gif
 # behance           : your_username
 # dribbble          : your_username
-  email             : richard.mathews@berkeley.edu
+  email             : richardmathews.ai@gmail.com
 # facebook          : your_username
   github            : RichardMathewsII
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : RichardMathewsII
-  medium            : richardmathewsii-datablog
+  medium            : richardmathewsii
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
