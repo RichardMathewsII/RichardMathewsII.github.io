@@ -19,4 +19,4 @@ The focus of this research project is to discover a more effective way of elicit
 As someone who frequently uses the Socratic method, I was curious if teaching smaller language models this method could improve their compositional reasoning abilities. Specifically, I wanted to see if this would enable them to break down complex questions into a series of simpler questions that they could compose to answer the original question. With the help of two research partners, I conducted a series of experiments to test my hypothesis. We found that the Socratic language models were highly effective at responding to questions using the Socratic method, and demonstrated substantial improvements (accuracy increases of over 20%) compared to existing pre-trained language models.
 
 ## Credits
-* Thank you to my research team–Adam Weinberger and Meng-Kang Kao, for helping me execute this project
+* Thank you to my research team–Adam Weinberger and Meng-Kang Kao–for helping me execute this project
