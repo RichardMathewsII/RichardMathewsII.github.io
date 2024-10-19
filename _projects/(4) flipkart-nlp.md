@@ -13,11 +13,6 @@ description: A demonstration of how topic modeling can reduce the costs associat
 
 This app is a hypothetical AI system that delivers product insights to Flipkart sellers, including key patterns in customer complaints and praise, as well as recommendations to improve the product.
 
-{% <video controls="" id="video1" style="width:800px;max-width:100%;">
-    <source src="/assets/projects/flipkart/Flipkart Customer Insights Portal Demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video> %}
-
 ## Approach
 The general approach is to identify the dominant themes in positive and negative customer reviews for each product and feed the customer complaint patterns into GPT to produce product improvement recommendations. The Latent Dirichlet Allocation (LDA) algorithm is an effective technique for extracting out "topics" from a corpus. I assume negative customer reviews can be distilled into a small set of common complaints that a topic modeling algorithm like LDA can find, and this reduced representation of the corpus can be fed to an LLM model to brainstorm product improvement ideas.
 
