@@ -1,6 +1,6 @@
 ---
 title: Generating Product Improvement Ideas Using LLMs
-tags: [Python, NLP]
+tags: [Python, GenAI]
 date: 2023-04-18
 image: /assets/projects/flipkart/flipkart-cover.jpeg
 permalink: /projects/flipkart-nlp/

@@ -1,6 +1,6 @@
 ---
 title: Teaching Language Models the Socratic Method
-tags: [Python, NLP]
+tags: [Python, GenAI]
 date: 2023-08-11
 permalink: /projects/socratic-language-models/
 image: /assets/projects/socratic-lm/cover1.jpeg
