@@ -2,18 +2,34 @@
   percentage: 95
   color: success
 
-- name: Spark
-  percentage: 85
+- name: Git
+  percentage: 90
   color: success
 
-- name: SQL
+- name: Docker
   percentage: 80
+  color: success
+
+- name: Azure
+  percentage: 75
   color: warning
 
-- name: R
-  percentage: 55
+- name: Kubernetes
+  percentage: 70
+  color: warning
+
+- name: SQL
+  percentage: 65
+  color: warning
+
+- name: Linux
+  percentage: 60
+  color: warning
+
+- name: Spark
+  percentage: 40
   color: danger
 
-- name: Command Line
-  percentage: 50
+- name: R
+  percentage: 30
   color: danger

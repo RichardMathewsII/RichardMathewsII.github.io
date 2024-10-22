@@ -1,9 +1,12 @@
 - school: The University of California, Berkeley
   degree: Master's in Data Science
   from: 2022
-  to: present
+  to: 2024
   description: 
   bullets: 
+        - line: "GPA: 4.0"
+        - line: "Coursework: Research Design, Statistics, Probability Theory, Data Engineering, Machine Learning, Natural Language Processing and Deep Learning, Machine Learning Systems, Data Strategy, Capstone"
+        - line: "Achievements: One of 6 teams (out of 33) to advance to capstone showcase."
 
 - school: The University of Texas at Austin
   degree: Bachelor's in Chemical Engineering, Minor in Computational Science

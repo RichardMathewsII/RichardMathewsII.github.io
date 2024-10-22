@@ -32,15 +32,18 @@ If you are interested in exploring more about the project or want to see a demo 
 {% include elements/button.html link="https://writeassist.my.canva.site/" text="Project Website (Demo)" %}
 </p>
 
-![frame1](/assets/projects/writeassist/PoC%20img.png)
 
 ## Contributions
 Since my product idea was selected at the beginning of the semester, I took on the leadership role and really drove the project as the key contributor. Here are the highlights of my contributions:
 
 👉 Formulated novel product idea and strategy, conducted market research and competitor analysis
+
 👉 Led 4 developers in agile implementation of the PoC over 12 week period
+
 👉 One of 6 teams (out of 33) to advance to the capstone showcase
+
 👉 Combined machine learning theory, ​MLOps, and GenAI to construct a ​GenAIOps concept that allowed us to ​experiment over all components of our ​system in a scalable, transparent, and ​cost-efficient way
+
 👉 Designed the GenAI inference architecture and implemented using dagster and OpenAI
 
 ## Credits

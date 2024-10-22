@@ -1,20 +1,31 @@
-- role: Data Scientist
+- role: Applied AI Engineer
   company: BASF Corporation
-  from: 08/2021
+  from: 09/2023
   to: present
   description: |
               BASF is a Global Fortune 500 company, the largest chemicals company in the world, and a leader in sustainable manufacturing and material development.
-              I am participating in the company's professional development program for data science, which is a rotational program designed to produce data science leaders.
-              In my first rotation, I worked in AI Solutions for Sales, Marketing, and Customer Engagement, where I worked on churn prediction and market modeling solutions. 
-              I was product manager for a market intelligence product that helped make strategic business development more data-driven.
-              In addition to these projects, I consult/teach other data science teams in business and manufacturing domains on building scalable data science solutions with
-              Azure, Databricks, and Spark.
-              My current contributions are:
+              My strategic focus is to act as a change agent who drives scalable, innovative AI in chemical production units to enable more efficient and safe operations.
+              My highlights:
   bullets:
-        - line: Scaled ETL and machine learning pipelines using PySpark/Databricks; realized a 3500% performance boost
-        - line: Implemented end-to-end data science products for business teams (churn, market models) equipped with MLOps and DataOps using Databricks, Azure Data Lake, Azure Data Factory, Delta Lake, MLflow, PowerBI, and Python
-        - line: Designed innovative market sizing system that synthesizes and combines 6 different data sources to generate market intelligence that cannot be purchased from a third-party firm; built to inform strategic decision making
-        - line: Managed team of 4 developers in building a custom market intelligence product for internal clients in strategic business development; bridged business needs and technical development by communicating with stakeholders and translating business problems into tangible solutions
+        - line: Tools and Platforms - Microsoft Azure, Kubernetes, Docker, MLflow, Python, Dagster, FastAPI, MongoDB, PostgreSQL
+        - line: Value owner of a software product aimed at training and deploying machine learning models across production sites; secured $250K funding, led team in development using agile methodology, designed the microservices architecture and ML pipelines, deployed to Azure Kubernetes Services, and implemented aspects of ML pipelines and API services.
+        - line: Core developer of a GenAI Copilot product for production plants; designed data management and event processing, implemented LLM-based classification of document types, drove rollout efforts to plants in NA
+
+- role: Data Science Professional Development Program
+  company: BASF Corporation
+  from: 08/2021
+  to: 08/2023
+  description: |
+              I am participating in the company's professional development program for data science, which is a rotational program designed to produce data science leaders.
+              In my first rotation, I worked in AI Solutions for Sales, Marketing, and Customer Engagement, where I worked as a product owner for a market intelligence 
+              product to make strategic business development more data-driven. In my second rotation, I worked on AI chemical process modeling for a chemical business.
+              In my final rotation, I worked for Production AI leading efforts to develop new capabilities for digital twins of production plants.
+              My highlights:
+  bullets:
+        - line: Tools and Platforms - Databricks, Microsoft Azure, Delta Lake, MLflow, PowerBI, Python, Streamlit, Dagster
+        - line: Managed team of 4 developers in building a proprietary market intelligence product for internal clients in strategic business development; bridged business needs and technical development by communicating with stakeholders and translating business problems into tangible solutions
+        - line: Developed a digital twin of a production unit, enabling operations to monitor quality, simulate hypothetical scenarios, and receive real-time recommendations. Estimated $4M savings potential
+        - line: Architected a machine learning system that can produce a 10-hour forecast of product quality with 98% accuracy and an F1-score of 0.97
 
 - role: Data Science Intern
   company: BASF Corporation
@@ -26,4 +37,3 @@
         - line: Developed cloud application with productionized machine learning, data management, and automated data pipelining using SciKit-Learn, PostgreSQL, Kubernetes, and Gitlab which will save $500K per year on plant operation expenses
         - line: Applied weak supervision AI, NLP, and logistic regression using Snorkel, VADER, and Sci-Kit Learn on the customer survey dataset to identify the most insightful responses out of 20,000+ that should be prioritized by customer service, thus improving the efficiency of reviewing customer feedback
         - line: Presented weak supervision theory and company-specific use cases to an audience of 45 BASF technical experts, including PhDs and Digitalization leaders
-        - line: Built and deployed virtual networking application using Kubernetes to 3 BASF communities to spark social interaction and knowledge sharing amongst 150+ employees during a remote working situation

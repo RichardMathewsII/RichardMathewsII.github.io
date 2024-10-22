@@ -36,8 +36,8 @@ See [projects](https://www.richardmathewsii.com/projects/)
 Check out my [project tags](https://richardmathewsii.com/projects/tags) page to see which technical skills I've demonstrated in my projects.
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Technology Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Programming" source=site.data.programming-skills %}
+{% include about/skills.html title="Disciplines" source=site.data.other-skills %}
 </div>
 
 # Extracurricular
