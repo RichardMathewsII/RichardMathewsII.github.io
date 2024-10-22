@@ -1,6 +1,6 @@
 ---
 title: WriteAssist - A GenAI Assitant for Writing-Heavy Classrooms
-tags: [Python, GenAI]
+tags: [Python, GenAI, MLOps]
 date: 2024-08-15
 image: /assets/projects/writeassist/logo.png
 description: Reduce teacher burnout and improve student ​writing proficiency by equipping teachers with a ​classroom-aligned AI assistant that automates ​feedback generation and supports students with ​1:1 counseling.

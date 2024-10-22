@@ -3,12 +3,12 @@
   from: 09/2023
   to: present
   description: |
-              BASF is a Global Fortune 500 company, the largest chemicals company in the world, and a leader in sustainable manufacturing and material development.
+              BASF is a Global Fortune 500 company, the largest chemicals company in the world, and a leader in sustainable manufacturing.
               My strategic focus is to act as a change agent who drives scalable, innovative AI in chemical production units to enable more efficient and safe operations.
               My highlights:
   bullets:
         - line: Tools and Platforms - Microsoft Azure, Kubernetes, Docker, MLflow, Python, Dagster, FastAPI, MongoDB, PostgreSQL
-        - line: Value owner of a software product aimed at training and deploying machine learning models across production sites; secured $250K funding, led team in development using agile methodology, designed the microservices architecture and ML pipelines, deployed to Azure Kubernetes Services, and implemented aspects of ML pipelines and API services.
+        - line: Value owner of a software product aimed at training and deploying machine learning models across production sites; secured $250K funding, led team in development using agile methodology, designed the microservices architecture and ML pipelines, evaluated and explored ML design patterns, deployed to Azure Kubernetes Services, and implemented aspects of ML pipelines and API services.
         - line: Core developer of a GenAI Copilot product for production plants; designed data management and event processing, implemented LLM-based classification of document types, drove rollout efforts to plants in NA
 
 - role: Data Science Professional Development Program

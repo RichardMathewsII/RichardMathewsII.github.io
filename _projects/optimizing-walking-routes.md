@@ -1,6 +1,6 @@
 ---
 title: Optimizing Walking Routes for Safety at UT Austin
-tags: [Python, Object-Oriented Programming]
+tags: [Python]
 date: 2020-05-09
 permalink: /projects/route/
 image: /assets/projects/route/roUTe-heatmap.jpeg

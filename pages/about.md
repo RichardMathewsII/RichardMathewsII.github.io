@@ -15,6 +15,8 @@ weight: 6
  <h5>My career mission is to apply AI to solve complex problems that have scalable benefits for society. Currently, my focus is to be a change agent that scales AI in the world of atoms.</h5>
 </div>
 
+> 🌟 **My broad exposure to cloud deployment, data science, and product strategy makes me uniquely qualified to connect the dots between technical execution and business strategy, ensuring impactful and feasible solutions.**
+
 ---
 
 I’m optimistic about the potential of AI to improve the world, but I also know this will only happen if we, as scientists and engineers, ensure its development benefits the common good. I’m committed to playing my part in that effort by acting as a change agent with two key skillsets:
@@ -29,7 +31,5 @@ As a T-shaped data scientist, I have deep skills in the data science discipline 
 * Leading the full product lifecycle, from problem identification and solution design to product-market fit and securing stakeholder buy-in.
 * Designing microservice architectures, building data and ML pipelines in the cloud, and deploying ML models using various design patterns.
 * Understanding the mathematics of engineering domains and applying the appropriate data science techniques.
-
-> 🌟 **My broad exposure to cloud deployment, data science, and product strategy makes me uniquely qualified to connect the dots between technical execution and business strategy, ensuring impactful and feasible solutions.**
 
 Feel free to [contact](https://richardmathewsii.com/contact/) me for a one-on-one discussion about the field of AI.
