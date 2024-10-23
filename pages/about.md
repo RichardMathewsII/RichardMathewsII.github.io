@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-description: My career mission is to apply AI to solve complex problems that have scalable benefits for society. Currently, my focus is to be a change agent that scales AI in the world of atoms.
+description: My career mission is to apply AI to solve complex problems that have scalable benefits for society. CCurrently, my ambition is to be a change agent that transforms chemical production with artificial intelligence to make plant operations safer and more efficient.
 image: /assets/me/desk_shot_behind.jpeg
 weight: 6
 ---
@@ -12,7 +12,7 @@ weight: 6
  <img src='/assets/me/head_shot_5.jpeg' height="300" width="300" style='float: left; padding-right: 20px'/>
  <br>
  <h3> Hi, my name is {{ site.author.name }} :wave:</h3>
- <h5>My career mission is to apply AI to solve complex problems that have scalable benefits for society. Currently, my focus is to be a change agent that scales AI in the world of atoms.</h5>
+ <h5>My career mission is to apply AI to solve complex problems that have scalable benefits for society. Currently, my ambition is to be a change agent that transforms chemical production with artificial intelligence to make plant operations safer and more efficient.</h5>
 </div>
 
 > 🌟 **My broad exposure to cloud deployment, data science, and product strategy makes me uniquely qualified to connect the dots between technical execution and business strategy, ensuring impactful and feasible solutions.**
