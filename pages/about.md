@@ -9,7 +9,7 @@ weight: 6
 
 # **About Me**
 <div id='container'>
- <img src='/assets/me/head_shot_5.jpeg' height="300" width="300" style='float: left; padding-right: 20px'/>
+ <img src='/assets/me/professional.jpeg' height="500" width="300" style='float: left; padding-right: 20px'/>
  <br>
  <h3> Hi, my name is {{ site.author.name }} :wave:</h3>
  <h5>My career mission is to apply AI to solve complex problems that have scalable benefits for society. Currently, my ambition is to be a change agent that transforms chemical production with artificial intelligence to make plant operations safer and more efficient.</h5>
